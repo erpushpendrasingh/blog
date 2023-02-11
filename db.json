@@ -1,0 +1,109 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "chandan",
+      "avtar": "",
+      "email": "abc@gmail.com",
+      "password": "123456"
+    },
+    {
+      "username": "pushpendrasingh",
+      "avtar": "aaaaaaaaaaaaa",
+      "email": "avb@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "username": "erpushpendrasingh8900@gmail.com",
+      "avtar": "aaaaaaaaaaaaa",
+      "email": "erpushpendrasingh8900@gmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "username": "pushpendrasingh",
+      "avtar": "aaaaaaaaaaaaa",
+      "email": "avb@gmail.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "username": "admin",
+      "avtar": "https://img.freepik.com/premium-vector/avatar-portrait-young-caucasian-boy-man-round-frame-vector-cartoon-flat-illustration_551425-19.jpg?w=740",
+      "email": "asd@gmail.com",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "username": "chandan",
+      "avtar": "https://img.freepik.com/premium-vector/avatar-portrait-young-caucasian-boy-man-round-frame-vector-cartoon-flat-illustration_551425-19.jpg?w=740",
+      "email": "chandan@gmail.com",
+      "password": "12345",
+      "id": 6
+    },
+    {
+      "username": "nitu",
+      "avtar": " (window.location.href = \"./addBlog.html\")",
+      "email": "nitu@gmail.com",
+      "password": "12345",
+      "id": 7
+    },
+    {
+      "username": "pushpendrasingh",
+      "avtar": "aaaaaaaaaaaaa",
+      "email": "avb@gmail.com",
+      "password": "12345",
+      "id": 8
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "username": "coreyschafer",
+      "title": "Be Present",
+      "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
+      "category": "Entertainment",
+      "date": "2017-06-01",
+      "likes": 24,
+      "comments": [
+        {
+          "username": "Jane",
+          "content": "Good One"
+        },
+        {
+          "username": "Bob",
+          "content": "Loved It!"
+        }
+      ]
+    },
+    {
+      "title": "aaaaa",
+      "content": "aaaaaaaa",
+      "category": "Tech",
+      "date": "12020-02-10",
+      "id": 2
+    },
+    {
+      "title": "aaaaaa",
+      "content": "aaaaaaaaaaaa",
+      "category": "Tech",
+      "date": "2023-10-10",
+      "id": 3
+    },
+    {
+      "title": "aaaaaa",
+      "content": "aaaaaaaaaaaa",
+      "category": "Tech",
+      "date": "2023-10-10",
+      "id": 4
+    },
+    {
+      "title": "aaaaaa",
+      "content": "aaaaaaaaaaaa",
+      "category": "Tech",
+      "date": "2023-10-10",
+      "id": 5
+    }
+  ]
+}
